@@ -1,7 +1,7 @@
-AIM:
+### AIM:
 To install operating system.
 
-MATERIALS REQUIRED :
+### MATERIALS REQUIRED :
 1.Operating System Installation Media
 
 2.Computer with Appropriate Hardware
@@ -14,25 +14,28 @@ MATERIALS REQUIRED :
 
 6.User Account Information
 
-PROCEDURE:
+### PROCEDURE:
 
 1.Prepare Installation Media:
 
 . Insert the installation DVD or connect the bootable USB drive containing the operating system into your computer.
 
-s2
+![image](https://github.com/ashwinkumarsaveethaofficial/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120731469/93d6683f-8c29-4228-919c-fced1f5439f4)
+
 
 2.Boot from Installation Media:
 
 . Restart your computer. As it boots up, access the boot menu or BIOS/UEFI settings. Typically, you can do this by pressing a specific key during startup (e.g., F2, F12, Del, or Esc). Select the bootable media (DVD or USB drive) as the primary
 
-s3
+![image](https://github.com/ashwinkumarsaveethaofficial/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120731469/12a56c73-a7f0-48ea-afc6-e9030c5561b6)
+
 
 3.Select Language and Region:
 
 . The installation process usually starts with selecting your preferred language, time zone, and keyboard layout.
 
-s7
+![image](https://github.com/ashwinkumarsaveethaofficial/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120731469/89c76816-e74a-45c8-8bcb-d09f16ffdc26)
+
 
 4.Begin Installation:
 
@@ -54,7 +57,8 @@ s7
 
 . If you're installing the OS on a new drive or wish to create custom partitions, use the installation wizard to configure the storage layout. For Windows, you can create, format, and select partitions during this step. For Linux, you can choose to install the bootloader (e.g., GRUB) and configure partitions. You may need to create a root (/) and, optionally, a swap partition.
 
-s4
+![image](https://github.com/ashwinkumarsaveethaofficial/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120731469/b442a66f-d014-4454-9cfe-5080f1b1fdd2)
+
 
 9.Begin Installation:
 
@@ -70,7 +74,9 @@ s4
 
 12.Install Additional Software (if applicable):
 
-. Some operating systems, like Linux distributions, allow you to select additional software packages during installation. Choose the packages you need. s5
+. Some operating systems, like Linux distributions, allow you to select additional software packages during installation. Choose the packages you need. 
+![image](https://github.com/ashwinkumarsaveethaofficial/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120731469/4d8a3736-7df0-4285-a81a-3d5fb4327303)
+
 
 13.Complete Installation:
 
@@ -80,7 +86,8 @@ s4
 
 . After installation is complete and your computer restarts, log in using the credentials you provided. Check for updates and install them if necessary to ensure your system is up to date.
 
-s6
+![image](https://github.com/ashwinkumarsaveethaofficial/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120731469/9461031f-a61c-4619-83e5-3bc9021fd09b)
+
 
 15.Install Drivers (if needed):
 
@@ -90,5 +97,5 @@ s6
 
 . Your operating system is now installed and ready for use.
 
-RESULT :
+### RESULT :
 Thus the Operating system has been installed successfully
